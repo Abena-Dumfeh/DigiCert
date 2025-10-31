@@ -1,0 +1,15 @@
+chaincode/**/bin/
+chaincode/**/build/
+*.out
+app/rest/node_modules/
+
+app/rest/.env
+*.block
+*.tx
+*.pem
+*.crt
+*.key
+*.sk
+*.log
+.DS_Store
+*.swp
